@@ -1,0 +1,10 @@
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-text-splitters
+langgraph
+faiss-cpu
+duckduckgo-search
+streamlit
+python-dotenv
